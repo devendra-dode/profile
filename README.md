@@ -21,14 +21,14 @@
 **🔗 Live:** [seductiveseekers.com](https://www.seductiveseekers.com/)  
 
 ## 5️⃣ Umrah Pilgrimage Platform (Node.js, MySQL, React.js)  
-**🔹 Role:** Database Design, Backend & Frontend Development  
+**🔹 Role:** Database Design, Backend Development  
 **🔹 Description:** A comprehensive platform for organizing and managing Hajj & Umrah pilgrimages, offering customized packages and seamless booking experiences.  
 **🔗 Live:**  
 - **User Panel:** [umrah-user.codemeg.com](https://umrah-user.codemeg.com/login)  
 - **Admin Panel:** [umrah-admin.codemeg.com](https://umrah-admin.codemeg.com/login)  
 
 ## 6️⃣ Lunar Astro (Node.js, React.js, MySQL)  
-**🔹 Role:** Database Design, Backend & Frontend Development  
+**🔹 Role:** Database Design, Backend Development  
 **🔹 Description:** Lunar Astro provides the most authentic and trusted astrologers throughout the world after several assessments and training. The platform helps users get personalized astrological readings under the guidance of Deepanshu Giri.  
 **🔗 Live:** [astro.codemeg.com](https://astro.codemeg.com/)  
 
