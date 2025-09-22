@@ -15,7 +15,7 @@
 **🔹 Description:** An English-language weekly tabloid newspaper covering news and events in Guwahati, India.  
 **🔗 Live:** [guwahatiplus.com](https://www.guwahatiplus.com/)  
 
-## 4️ Seductive Seekers (Laravel, MySQL)  
+## 4️ Seductive Seekers (Node js React js and MYSQL)  
 **🔹 Role:** Database Design, Backend Development  
 **🔹 Description:** A high-end escort service platform offering 24/7 availability with incall and outcall options, ensuring complete discretion.  
 **🔗 Live:** [seductiveseekers.com](https://www.seductiveseekers.com/)  
